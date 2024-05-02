@@ -6,6 +6,22 @@
 
 In this project, you will create an interactive web application using React to visualize and analyze the data from the New York City Squirrel Census. Your application will retrieve data from the provided API and possibly other data sources to present insights through visualizations, comparisons, and interactive elements.
 
+## Real-World Relevance
+
+This project mirrors the types of tasks that developers often encounter in the workplace. In many roles, developers are required to:
+
+- **Integrate with APIs**: Many applications depend on external data sources and services. Learning to integrate and work with APIs, as you will with the NYC Squirrel Census API, is a fundamental skill for developers.
+
+- **Create Interactive User Interfaces**: The ability to build dynamic and interactive user interfaces is crucial. This project demands that you not only fetch and display data but also create a user experience that allows for interaction and exploration, which is key in customer-facing applications.
+
+- **Visualize Data**: The demand for data visualization is growing across industries as businesses seek to gain insights from data and communicate these insights effectively. Developing skills in building tools that can graphically represent data helps in making information more accessible and actionable.
+
+- **Work in Teams**: Collaboration is a cornerstone of modern software development. Working in pairs on this project will help you learn how to divide tasks, integrate code, and blend different ideas and approaches effectively.
+
+- **Problem Solving and Innovation**: This project challenges you to go beyond simply displaying data, pushing you to think about how best to analyze and present it to end-users in an engaging manner. This kind of problem-solving and innovative thinking is highly valued in development roles.
+
+By completing this project, you not only learn technical skills but also gain experience in how these skills are applied in a professional context to solve real-world problems and add value to a business or organization.
+
 ## Objectives
 
 - **Use React**: You will use React and any other npm packages and/or frameworks you wish in order to create your application. There are no requirements on which technologies you use.
