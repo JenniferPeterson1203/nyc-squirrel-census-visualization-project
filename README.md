@@ -20,7 +20,7 @@ In this project, you will create an interactive web application using React to v
 - **Teamwork**: Work individually or in pairs.
 - **API Usage**: Must use the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data).
 - **Interactivity**: Your app should allow user interaction to explore different aspects of the data.
-- **Creative Presentation**: Use innovative ways to visualize the data. Avoid simple listings of API data.
+- **Creative Presentation**: Use innovative ways to visualize the data. _Avoid simple listings of API data_.
 
 ## Getting Started
 
@@ -32,22 +32,18 @@ In this project, you will create an interactive web application using React to v
    - **Decide on the type of visualization and comparison metrics**:
      - **Example Comparison**: Compare the frequency of squirrel activities such as foraging and eating across different parks in NYC. Calculate and visualize the percentage of squirrels engaged in these activities within each park to identify which park has the most active squirrel population.
      - Consider how to display this information. You might use a bar chart to represent each park with bars colored differently for each activity. Alternatively, a pie chart for each park could show the proportion of each activity.
-   - **Sketch out a rough design and UI flow**:
-     - Map out how users will navigate your app. Consider what happens when a user clicks on a park name. Will it show more detailed stats for that park, or will there be a separate section for detailed park comparisons?
-     - **Interactive Components Requirement**: You are required to create at least one interactive component, such as a filterable map or a dynamic chart. You can choose to build this as one comprehensive component or as several smaller, interconnected components, each displaying different facets of the data.
+     - **Interactive Components Requirement**: You are required to create at least one interactive component, such as a dashboard or a dynamic chart etc. You can choose to build this as one comprehensive component or as several smaller, interconnected components, each displaying different facets of the data.
    - **Identify any additional APIs or datasets you might want to integrate**:
-     - You might find it helpful to integrate additional geographical data or data on park visitor numbers to enrich your comparisons.
+     - You might find it helpful to integrate additional data you retrieve elsewhere either through other APIs or from retrieving subject info through another website.
 4. **Development**:
    - Set up API calls to fetch the data.
    - Implement the UI components.
    - Add interactivity and data processing logic.
-5. **Testing**: Ensure your app works across different devices and has no major bugs.
-6. **Documentation**: Write clear documentation in your README about how to set up and run your project.
+5. **Testing**: Ensure your app works and has no major bugs.
 
 ## Submission
 
 - Commit your completed project to this GitHub repository.
-- Include a `README.md` with setup instructions and a brief description of your project and its features.
 
 ## Presentation
 
