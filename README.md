@@ -18,7 +18,7 @@ In this project, you will create an interactive web application using React to v
 ## Requirements
 
 - **Teamwork**: Work individually or in pairs.
-- **API Usage**: Must use the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data).
+- **API Usage**: Must use the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data). (optional to use any other supplemental APIs)
 - **Interactivity**: Your app should allow user interaction to explore different aspects of the data.
 - **Creative Presentation**: Use innovative ways to visualize the data. _Avoid simple listings of API data_.
 
