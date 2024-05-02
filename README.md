@@ -1,31 +1,61 @@
-# Basic React Starter
+# NYC Squirrel Census Visualization Project
 
-You can use this starter to create any ReactJS app you would like.
-Unlike when you use `npm create vite@latest your-app-name -- --template react`,
+<img src="./assets/squirrels.jpg" width="500" height="500">
 
-This repo has removed all of the unwanted starter code that is normally included when using `npm` to create an application.
+## Project Overview
 
-## Getting started
+In this project, you will create an interactive web application using React to visualize and analyze the data from the New York City Squirrel Census. Your application will retrieve data from the provided API and possibly other data sources to present insights through visualizations, comparisons, and interactive elements.
 
-- `clone` this application
-- change the name of this directory to a name that refers to your current project. Don't just leave it as `react-basic-starter`
-  _Hint:_ In the terminal, type `mv react-basic-starter new-name-of-your-app`
-- `cd` into the app
-- in the terminal run `git remote remove origin` in order to remove any connection to this Github folder.
+## Objectives
 
-- run `npm install`
-- to start the project, run `npm run dev`
-- no navigate to `localhost:3000` and you will see the app
-- Now you are ready to code
+- **Use React**: You will start with a provided React starter kit and build on it.
+- **Fetch Data**: Your application must consume the NYC Squirrel Census API and can optionally use other APIs or data from the web.
+- **Visualization**: Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
+- **Data Manipulation**: Include calculations to make comparisons and derive insights from the data.
+- **Beyond Display**: Do not merely fetch and display data; add value by processing, filtering, and summarizing before presenting it.
 
-If you would like to connect this afterwards to your personal Github then:
+## Requirements
 
-- go to your Github account in the browser
-- create a new repo and give it a name
-- make sure the repo is public and click `Create Repository`
-- copy the instructions under the title `…or push an existing repository from the command line`
-- paste the commands in your terminal
+- **Teamwork**: Work individually or in pairs.
+- **React Application**: Use the provided React starter kit.
+- **API Usage**: Must use the NYC Squirrel Census API.
+- **Interactivity**: Your app should allow user interaction to explore different aspects of the data.
+- **Creative Presentation**: Use innovative ways to visualize the data. Avoid simple listings of API data.
 
-You have now connected your project to the repo.
+## Getting Started
 
-**You have the ability to clone this repo over and over to create your own projects. Just remember to change the name of the folder so that you do not have duplicates**
+1. **Clone the Starter Kit**: Begin by cloning the provided starter kit repository. This kit includes basic setup instructions and placeholders for your components.
+2. **Explore the API**: Familiarize yourself with the [NYC Squirrel Census API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw). Understand the data fields and response format.
+3. **Plan Your Application**:
+   - **Decide on the type of visualization and comparison metrics**:
+     - **Example Comparison**: Compare the frequency of squirrel activities such as foraging and eating across different parks in NYC. Calculate and visualize the percentage of squirrels engaged in these activities within each park to identify which park has the most active squirrel population.
+     - Consider how to display this information. You might use a bar chart to represent each park with bars colored differently for each activity. Alternatively, a pie chart for each park could show the proportion of each activity.
+   - **Sketch out a rough design and UI flow**:
+     - Map out how users will navigate your app. Consider what happens when a user clicks on a park name. Will it show more detailed stats for that park, or will there be a separate section for detailed park comparisons?
+     - **Interactive Components Requirement**: You are required to create at least one interactive component, such as a filterable map or a dynamic chart. You can choose to build this as one comprehensive component or as several smaller, interconnected components, each displaying different facets of the data.
+   - **Identify any additional APIs or datasets you might want to integrate**:
+     - You might find it helpful to integrate additional geographical data or data on park visitor numbers to enrich your comparisons.
+4. **Development**:
+   - Set up API calls to fetch the data.
+   - Implement the UI components.
+   - Add interactivity and data processing logic.
+5. **Testing**: Ensure your app works across different devices and has no major bugs.
+6. **Documentation**: Write clear documentation in your README about how to set up and run your project.
+
+## Submission
+
+- Commit your completed project to this GitHub repository.
+- Include a `README.md` with setup instructions and a brief description of your project and its features.
+
+## Presentation
+
+- **Present Your Project**: At the end of the project, you will present your application to the cohort. This presentation should include a demonstration of the functionality, an explanation of the key features, and a brief discussion of the challenges you faced and the solutions you implemented.
+
+## Resources
+
+- [NYC Open Data Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
+- [API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw)
+- [Querying Data](https://dev.socrata.com/docs/queries/)
+- [Filtering Data](https://dev.socrata.com/docs/filtering.html)
+- [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
+  Good luck, and have fun visualizing the wonderful world of NYC squirrels!
