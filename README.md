@@ -17,15 +17,16 @@ In this project, you will create an interactive web application using React to v
 ## Requirements
 
 - **Teamwork**: Work individually or in pairs.
-- **React Application**: Use the provided React starter kit.
-- **API Usage**: Must use the NYC Squirrel Census API.
+- **API Usage**: Must use the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data).
 - **Interactivity**: Your app should allow user interaction to explore different aspects of the data.
 - **Creative Presentation**: Use innovative ways to visualize the data. Avoid simple listings of API data.
 
 ## Getting Started
 
-1. **Clone the Starter Kit**: Begin by cloning the provided starter kit repository. This kit includes basic setup instructions and placeholders for your components.
-2. **Explore the API**: Familiarize yourself with the [NYC Squirrel Census API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw). Understand the data fields and response format.
+1. **Fork and Clone the Repository**:
+   - Start by forking this repository to your GitHub account. This will create a copy of the repository under your own GitHub profile.
+   - After forking, go to your GitHub profile, find the forked repository, and clone it to your local machine.
+2. **Explore the API**: Familiarize yourself with the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data). Understand the data fields and response format.
 3. **Plan Your Application**:
    - **Decide on the type of visualization and comparison metrics**:
      - **Example Comparison**: Compare the frequency of squirrel activities such as foraging and eating across different parks in NYC. Calculate and visualize the percentage of squirrels engaged in these activities within each park to identify which park has the most active squirrel population.
