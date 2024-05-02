@@ -8,7 +8,8 @@ In this project, you will create an interactive web application using React to v
 
 ## Objectives
 
-- **Use React**: You will use React and any other packages you wish in order to create your application. There are no requirements on which technologies you use.
+- **Use React**: You will use React and any other npm packages and/or frameworks you wish in order to create your application. There are no requirements on which technologies you use.
+- **Use React**: Make your project visually appealing through Vanilla CSS or any CSS Framework you wish to use
 - **Fetch Data**: Your application must consume the NYC Squirrel Census API and can optionally use other APIs or data from the web.
 - **Visualization**: Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
 - **Data Manipulation**: Include calculations to make comparisons and derive insights from the data.
