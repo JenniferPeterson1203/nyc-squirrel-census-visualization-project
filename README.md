@@ -13,7 +13,7 @@ In this project, you will create an interactive web application using React to v
 - **Fetch Data**: Your application must consume the NYC Squirrel Census API and can optionally use other APIs or data from the web.
 - **Visualization**: Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
 - **Data Manipulation**: Include calculations to make comparisons and derive insights from the data.
-- **Beyond Display**: Do not merely fetch and display data; add value by processing, filtering, and summarizing before presenting it.
+- **Beyond Display**: _Do not merely fetch and display data;_ add value by processing, filtering, and summarizing before presenting it.
 
 ## Requirements
 
