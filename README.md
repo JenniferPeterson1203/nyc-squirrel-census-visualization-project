@@ -106,7 +106,7 @@ All of these Inspirations are from a website called [Pudding.cool](https://www.p
 - [What Does Happily Ever After Look Like](https://pudding.cool/2023/10/romance-covers/)
 - [NBA Champions - Crutch](https://pudding.cool/2023/06/asterisks/)
 
-## General Hackathon
+## General Hackathon Tips & Ideas
 
 - [Hackathon 101: 5 simple tips for beginners](https://blog.streamlit.io/hackathon-101-5-simple-tips-for-beginners/)
 - [Top 10 Prize-Winning Hackathon Project Ideas](https://www.boardinfinity.com/blog/top-10-prize-winning-hackathon-project-ideas-3/)
