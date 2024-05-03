@@ -69,8 +69,6 @@ By completing this project, you not only learn technical skills but also gain ex
 
 ### Data
 
-<hr />
-
 - [NYC Open Data Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
 - [API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw)
 - [Querying Data](https://dev.socrata.com/docs/queries/)
@@ -78,8 +76,6 @@ By completing this project, you not only learn technical skills but also gain ex
 - [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
 
 ### Inspiration
-
-<hr />
 
 - [Teenagers Growing Into Adults](https://pudding.cool/2024/03/teenagers/)
 - [Women's Hoops Signature Sneakers](https://pudding.cool/2022/09/wnba-kicks/)
