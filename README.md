@@ -89,4 +89,11 @@ All of these Inspirations are from a website called [Pudding.cool](https://www.p
 - [What Does Happily Ever After Look Like](https://pudding.cool/2023/10/romance-covers/)
 - [NBA Champions - Crutch](https://pudding.cool/2023/06/asterisks/)
 
-Good luck, and have fun visualizing the wonderful world of NYC squirrels!
+## General Hackathon
+
+- [Hackathon 101: 5 simple tips for beginners](https://blog.streamlit.io/hackathon-101-5-simple-tips-for-beginners/)
+- [Top 10 Prize-Winning Hackathon Project Ideas](https://www.boardinfinity.com/blog/top-10-prize-winning-hackathon-project-ideas-3/)
+- [11 Top Cool Project Ideas for your Next Hackathon](https://www.upgrad.com/blog/hackathon-project-ideas/)
+- [Hackathon Tips and Tricks](https://unstop.com/blog/hackathon-project-ideas)
+
+  Good luck, and have fun visualizing the wonderful world of NYC squirrels!
