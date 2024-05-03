@@ -49,7 +49,7 @@ By completing this project, you not only learn technical skills but also gain ex
 3. **Plan Your Application**:
    - **Decide on the type of visualization and comparison metrics**:
      - **Example Comparison**: Compare the frequency of squirrel activities such as foraging and eating across different parks in NYC. Calculate and visualize the percentage of squirrels engaged in these activities within each park to identify which park has the most active squirrel population.
-     - Consider how to display this information. You might use a bar chart to represent each park with bars colored differently for each activity. Alternatively, a pie chart for each park could show the proportion of each activity.
+     - Consider how to display this information. You might use a dahboard or bar chart to represent each park with bars colored differently for each activity. Alternatively, a pie chart for each park could show the proportion of each activity. Or your narrative could be displayed in a completely different way than charts and graphs. Be creative.
      - **Interactive Components Requirement**: You are required to create at least one interactive component, that represents your data narrative. You can choose to build this as one comprehensive component or as several smaller, interconnected components, each displaying different facets of the data.
    - **Identify any additional APIs or datasets you might want to integrate**:
      - You might find it helpful to integrate additional data you retrieve elsewhere either through other APIs or from retrieving subject info through another website.
