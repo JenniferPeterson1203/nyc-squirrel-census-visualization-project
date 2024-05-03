@@ -77,7 +77,7 @@ By completing this project, you not only learn technical skills but also gain ex
 - [Filtering Data](https://dev.socrata.com/docs/filtering.html)
 - [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
 
-## Inspiration
+### Inspiration
 
 <hr />
 
