@@ -70,7 +70,7 @@ By completing this project, you not only learn technical skills but also gain ex
 ### Data
 
 - [NYC Open Data Squirrel Census Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data)
-- [API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw)
+- [Squirrel Cenus Data API](https://dev.socrata.com/foundry/data.cityofnewyork.us/vfnx-vebw)
 - [Querying Data](https://dev.socrata.com/docs/queries/)
 - [Filtering Data](https://dev.socrata.com/docs/filtering.html)
 - [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
