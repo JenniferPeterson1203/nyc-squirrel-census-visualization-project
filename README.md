@@ -61,7 +61,7 @@ By completing this project, you not only learn technical skills but also gain ex
 
 ## Submission
 
-- Commit your completed project to your GitHub repository and make a pull request.
+- Make a pull request from your repo to this repository
 
 ## Presentation
 
