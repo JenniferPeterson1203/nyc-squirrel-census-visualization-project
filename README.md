@@ -73,3 +73,13 @@ By completing this project, you not only learn technical skills but also gain ex
 - [Filtering Data](https://dev.socrata.com/docs/filtering.html)
 - [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
   Good luck, and have fun visualizing the wonderful world of NYC squirrels!
+
+  ## Inspiration
+
+  - [Teenagers Growing Into Adults](https://pudding.cool/2024/03/teenagers/)
+  - [What Makes an Album the Greatest of All Time](https://pudding.cool/2024/03/greatest-music/)
+  - [Biggest National Anthem Divas](https://pudding.cool/2024/02/anthems/)
+  - [Music Genres](https://pudding.cool/2023/10/genre/)
+  - [What Does Happily Ever After Look Like](https://pudding.cool/2023/10/romance-covers/)
+  - [NBA Champions - Crutch](https://pudding.cool/2023/06/asterisks/)
+  - [Website that Specializes in Creating Data Visualizations](https://www.pudding.cool/)
