@@ -77,6 +77,23 @@ By completing this project, you not only learn technical skills but also gain ex
 - [Filtering Data](https://dev.socrata.com/docs/filtering.html)
 - [SODA Consumer API Getting Started](https://dev.socrata.com/docs/filtering.html)
 
+### Charts
+
+Charts are not the only way to display your data narrative and visualization. If you do choose to use them, here are a few options. Do your research to find other options.
+
+#### PlotlyJS
+
+- [Docs](https://plotly.com/javascript/)
+- [NPM package](https://www.npmjs.com/package/plotly.js/v/1.47.4)
+- [Potential Video Instructions](https://www.youtube.com/watch?v=7D3kXabIUoM&ab_channel=Recoding)
+
+#### ChartJS
+
+- [Docs](https://www.chartjs.org/docs/latest/getting-started/)
+- [NPM package Chart.js](https://www.npmjs.com/package/chart.js?activeTab=readme)
+- [NPM package React Chart JS 2](https://www.npmjs.com/package/react-chartjs-2)
+- [Potential Video Instructions](https://www.youtube.com/watch?v=ZpfseYy5Hxg&ab_channel=PedroTech)
+
 ### Inspiration
 
 All of these Inspirations are from a website called [Pudding.cool](https://www.pudding.cool/). They are a website that specializes in creating data visualizations.
