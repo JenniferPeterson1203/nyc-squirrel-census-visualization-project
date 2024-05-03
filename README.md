@@ -77,6 +77,7 @@ By completing this project, you not only learn technical skills but also gain ex
   ## Inspiration
 
   - [Teenagers Growing Into Adults](https://pudding.cool/2024/03/teenagers/)
+  - [Women's Hoops Signature Sneakers](https://pudding.cool/2022/09/wnba-kicks/)
   - [What Makes an Album the Greatest of All Time](https://pudding.cool/2024/03/greatest-music/)
   - [Biggest National Anthem Divas](https://pudding.cool/2024/02/anthems/)
   - [Music Genres](https://pudding.cool/2023/10/genre/)
