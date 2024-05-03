@@ -27,16 +27,15 @@ By completing this project, you not only learn technical skills but also gain ex
 - **Use React**: You will use React and any other npm packages and/or frameworks you wish in order to create your application. There are no requirements on which technologies you use.
 - **Use CSS**: Make your project visually appealing through Vanilla CSS or any CSS Framework you wish to use
 - **Fetch Data**: Your application must consume the NYC Squirrel Census API and can optionally use other APIs or data from the web.
-- **Visualization**: Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
+- **Visualization**: Tell a story about the data. Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
 - **Data Manipulation**: Include calculations to make comparisons and derive insights from the data.
 - **Beyond Display**: _\*\* Do not merely fetch and display data;_ add value by processing, filtering, and summarizing before presenting it.
 
 ## Requirements
 
-- **Teamwork**: Work individually or in pairs.
 - **API Usage**: Must use the [NYC Squirrel Census API](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data). (optional to use any other supplemental APIs)
 - **Interactivity**: Your app should allow user interaction to explore different aspects of the data.
-- **Creative Presentation**: Use innovative ways to visualize the data. _\*\* Avoid simple listings of API data_.
+- **Presentation**: Show us your app and tell us the story of your chosen data.
 
 ## Getting Started
 
