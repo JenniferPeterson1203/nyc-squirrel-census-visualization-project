@@ -14,9 +14,11 @@ This project mirrors the types of tasks that developers often encounter in the w
 
 - **Create Interactive User Interfaces**: The ability to build dynamic and interactive user interfaces is crucial. This project demands that you not only fetch and display data but also create a user experience that allows for interaction and exploration, which is key in customer-facing applications.
 
+- **Data Storytelling**: One of the most powerful aspects of data visualization is its ability to tell a story. Through this project, you will learn how to present data in a way that narrates the habits and patterns of NYC squirrels, providing insights that can be understood at a glance. Effective data storytelling can influence decision-making and drive action in business settings, making it an invaluable skill for developers who work with data-intensive applications.
+
 - **Visualize Data**: The demand for data visualization is growing across industries as businesses seek to gain insights from data and communicate these insights effectively. Developing skills in building tools that can graphically represent data helps in making information more accessible and actionable.
 
-- **Work in Teams**: Collaboration is a cornerstone of modern software development. Working in pairs on this project will help you learn how to divide tasks, integrate code, and blend different ideas and approaches effectively.
+- **Work in Teams**: Collaboration is a cornerstone of modern software development. Working in teams on this project will help you learn how to divide tasks, integrate code, and blend different ideas and approaches effectively.
 
 - **Problem Solving and Innovation**: This project challenges you to go beyond simply displaying data, pushing you to think about how best to analyze and present it to end-users in an engaging manner. This kind of problem-solving and innovative thinking is highly valued in development roles.
 
@@ -27,8 +29,9 @@ By completing this project, you not only learn technical skills but also gain ex
 - **Use React**: You will use React and any other npm packages and/or frameworks you wish in order to create your application. There are no requirements on which technologies you use.
 - **Use CSS**: Make your project visually appealing through Vanilla CSS or any CSS Framework you wish to use
 - **Fetch Data**: Your application must consume the NYC Squirrel Census API and can optionally use other APIs or data from the web.
-- **Visualization**: Tell a story about the data. Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
 - **Data Manipulation**: Include calculations to make comparisons and derive insights from the data.
+- **Data Storytelling**: Craft narratives around the data. Showcase how data can be used to tell stories and convey insights effectively through your visualizations.
+- **Data Visualization**: Present the data in an engaging and interactive way. You can use dashboards, tables, charts, heatmaps, or even creative text displays like word art.
 - **Beyond Display**: _\*\* Do not merely fetch and display data;_ add value by processing, filtering, and summarizing before presenting it.
 
 ## Requirements
