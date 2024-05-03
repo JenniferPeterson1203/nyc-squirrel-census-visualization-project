@@ -77,6 +77,8 @@ By completing this project, you not only learn technical skills but also gain ex
 
 ### Inspiration
 
+All of these Inspirations are from a website called [Pudding.cool](https://www.pudding.cool/). They are a website that specializes in creating data visualizations.
+
 - [Teenagers Growing Into Adults](https://pudding.cool/2024/03/teenagers/)
 - [Women's Hoops Signature Sneakers](https://pudding.cool/2022/09/wnba-kicks/)
 - [What Makes an Album the Greatest of All Time](https://pudding.cool/2024/03/greatest-music/)
@@ -84,6 +86,5 @@ By completing this project, you not only learn technical skills but also gain ex
 - [Music Genres](https://pudding.cool/2023/10/genre/)
 - [What Does Happily Ever After Look Like](https://pudding.cool/2023/10/romance-covers/)
 - [NBA Champions - Crutch](https://pudding.cool/2023/06/asterisks/)
-- [Website that Specializes in Creating Data Visualizations](https://www.pudding.cool/)
 
 Good luck, and have fun visualizing the wonderful world of NYC squirrels!
